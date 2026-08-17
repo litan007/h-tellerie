@@ -46,7 +46,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             </div>
             <div>
               <div className="font-serif text-xl font-bold tracking-widest text-amber-100 uppercase">
-                ANDAZIBE
+                WHITE PALACE
               </div>
               <div className="text-[10px] tracking-widest uppercase text-amber-300/80 font-sans font-light">
                 LUXURY HOTEL & RESTAURANT
@@ -159,7 +159,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
 
       {/* Bottom Bar */}
       <div className="max-w-7xl mx-auto px-4 sm:px-8 mt-12 pt-6 border-t border-emerald-900/40 text-center text-xs text-emerald-300/50 font-light">
-        © 2025 Andazibe Luxury Hotel & Restaurant. Tous droits réservés.
+        © 2025 White Palace Luxury Hotel & Restaurant. Tous droits réservés.
       </div>
     </footer>
   );

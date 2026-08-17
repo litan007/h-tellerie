@@ -25,7 +25,7 @@ export const ContactView: React.FC = () => {
         <div className="absolute inset-0 z-0">
           <img
             src={PRESTIGE_LIVING_IMAGE}
-            alt="Contactez-nous - Andazibe Hotel"
+            alt="Contactez-nous - White Palace Hotel"
             className="w-full h-full object-cover scale-105"
             referrerPolicy="no-referrer"
           />

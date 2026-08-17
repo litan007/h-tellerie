@@ -48,7 +48,7 @@ export const Header: React.FC<HeaderProps> = ({
   };
 
   return (
-    <header className="absolute top-0 left-0 right-0 z-40 bg-gradient-to-b from-black/80 via-black/40 to-transparent text-white transition-all">
+    <header className="fixed top-0 left-0 right-0 z-40 bg-gradient-to-b from-black/80 via-black/40 to-transparent text-white transition-all">
       {/* Main Nav Bar */}
       <div className="max-w-7xl mx-auto px-4 sm:px-8 py-5 flex items-center justify-between">
         {/* Logo */}
@@ -61,7 +61,7 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
           <div>
             <div className="font-serif text-xl sm:text-2xl font-bold tracking-widest text-amber-100 uppercase leading-none">
-              ANDAZIBE
+              WHITE PALACE
             </div>
             <div className="text-[9px] tracking-widest uppercase text-amber-300/80 font-sans font-light mt-0.5">
               LUXURY HOTEL & RESTAURANT

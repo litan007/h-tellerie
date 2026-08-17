@@ -22,7 +22,7 @@ export const GalleryView: React.FC = () => {
         <div className="absolute inset-0 z-0">
           <img
             src={VILLA_NATURE_IMAGE}
-            alt="Galerie Photos Andazibe"
+            alt="Galerie Photos White Palace"
             className="w-full h-full object-cover scale-105"
             referrerPolicy="no-referrer"
           />

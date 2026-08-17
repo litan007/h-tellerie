@@ -52,7 +52,7 @@ export const BlogView: React.FC<BlogViewProps> = ({ onOpenRoomBooking }) => {
         <div className="absolute inset-0 z-0">
           <img
             src={LEMUR_CLOSE_IMAGE}
-            alt="Blog & Actualités Andazibe"
+            alt="Blog & Actualités White Palace"
             className="w-full h-full object-cover scale-105"
             referrerPolicy="no-referrer"
           />
@@ -64,7 +64,7 @@ export const BlogView: React.FC<BlogViewProps> = ({ onOpenRoomBooking }) => {
             JOURNAL & RÉCITS D'EXPÉDITION
           </span>
           <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-normal tracking-wide text-white">
-            Le Blog d'Andazibe
+            Le Blog de White Palace
           </h1>
           <p className="text-sm sm:text-lg text-gray-200 font-light max-w-xl mx-auto leading-relaxed">
             Histoires passionnantes de la faune sauvage, secrets de notre cuisine et coulisses de notre engagement vert.
@@ -280,7 +280,7 @@ export const BlogView: React.FC<BlogViewProps> = ({ onOpenRoomBooking }) => {
             <div className="bg-[#041915] text-white px-6 py-4 flex items-center justify-between shrink-0 border-b border-emerald-800">
               <div className="flex items-center gap-2 text-xs text-amber-300 uppercase tracking-widest font-semibold">
                 <BookOpen className="w-4 h-4 text-amber-400" />
-                <span>Le Journal d'Andazibe</span>
+                <span>Le Journal de White Palace</span>
               </div>
 
               <div className="flex items-center gap-3">
@@ -335,7 +335,7 @@ export const BlogView: React.FC<BlogViewProps> = ({ onOpenRoomBooking }) => {
                   </div>
                   <div>
                     <p className="font-semibold text-[#072E27]">{activeArticle.author}</p>
-                    <p className="text-[10px] text-gray-500">Rédacteur pour Andazibe Hotel</p>
+                    <p className="text-[10px] text-gray-500">Rédacteur pour White Palace Hotel</p>
                   </div>
                 </div>
               </div>

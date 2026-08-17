@@ -27,7 +27,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onOpenRoomBooking }) => {
             NOTRE HISTOIRE & NOS ENGAGEMENTS
           </span>
           <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-normal tracking-wide text-white">
-            À Propos d'Andazibe
+            À Propos de White Palace
           </h1>
           <p className="text-sm sm:text-lg text-gray-200 font-light max-w-xl mx-auto leading-relaxed">
             Un refuge d'exception éco-responsable niché au cœur de la majestueuse forêt primaire d'Andasibe, à Madagascar.
@@ -78,7 +78,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onOpenRoomBooking }) => {
             </h2>
             
             <p className="text-sm text-gray-600 font-light leading-relaxed">
-              Fondé avec la passion d'offrir une expérience de luxe authentique et consciente, Andazibe Hotel & Restaurant est idéalement situé aux portes du Parc National d'Andasibe-Mantadia, célèbre mondialement pour abriter le plus grand lémurien vivant : l'Indri Indri.
+              Fondé avec la passion d'offrir une expérience de luxe authentique et consciente, White Palace Hotel & Restaurant est idéalement situé aux portes du Parc National d'Andasibe-Mantadia, célèbre mondialement pour abriter le plus grand lémurien vivant : l'Indri Indri.
             </p>
             
             <p className="text-sm text-gray-600 font-light leading-relaxed">
@@ -101,7 +101,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ onOpenRoomBooking }) => {
             <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-[4/5]">
               <img
                 src={VILLA_NATURE_IMAGE}
-                alt="Architecture Andazibe"
+                alt="Architecture White Palace"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
@@ -212,10 +212,10 @@ export const AboutView: React.FC<AboutViewProps> = ({ onOpenRoomBooking }) => {
               LE MOT DE LA DIRECTION
             </span>
             <blockquote className="font-serif text-lg sm:text-2xl text-amber-100 font-light italic leading-relaxed">
-              « Recevoir nos clients à Andazibe, c'est leur ouvrir les portes d'un paradis préservé. Notre promesse est d'offrir une expérience inoubliable tout en préservant le joyau naturel de Madagascar. »
+              « Recevoir nos clients à White Palace, c'est leur ouvrir les portes d'un paradis préservé. Notre promesse est d'offrir une expérience inoubliable tout en préservant le joyau naturel de Madagascar. »
             </blockquote>
             <div className="text-xs text-emerald-300 font-medium">
-              — La Direction d'Andazibe Hotel & Restaurant
+              — La Direction de White Palace Hotel & Restaurant
             </div>
           </div>
 

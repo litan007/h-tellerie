@@ -62,7 +62,7 @@ export const TableBookingModal: React.FC<TableBookingModalProps> = ({ isOpen, on
                 RÉSERVER UNE TABLE
               </h3>
               <p className="text-[11px] text-amber-300/90 font-medium tracking-wider uppercase">
-                Restaurant Gastronomique Andazibe
+                Restaurant Gastronomique White Palace
               </p>
             </div>
           </div>

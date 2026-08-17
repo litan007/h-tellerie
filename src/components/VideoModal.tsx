@@ -30,7 +30,7 @@ export const VideoModal: React.FC<VideoModalProps> = ({ isOpen, onClose }) => {
           <div className="flex items-center gap-2">
             <Film className="w-4 h-4 text-amber-400" />
             <span className="font-serif text-sm font-bold tracking-widest uppercase text-amber-100">
-              IMMERSION VIDÉO — ANDAZIBE LUXURY RESORT
+              IMMERSION VIDÉO — WHITE PALACE LUXURY RESORT
             </span>
           </div>
 

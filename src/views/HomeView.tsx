@@ -66,7 +66,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
         <div className="absolute inset-0 z-0">
           <img
             src={HERO_LODGE_IMAGE}
-            alt="Andazibe Eco Lodge"
+            alt="White Palace Eco Lodge"
             className="w-full h-full object-cover scale-105"
             referrerPolicy="no-referrer"
           />
@@ -76,7 +76,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
         {/* Hero Content Left Aligned */}
         <div className="relative z-10 max-w-2xl space-y-6 pt-16 sm:pt-20 text-white">
           <span className="text-amber-400 font-semibold text-xs sm:text-sm tracking-[0.3em] uppercase block">
-            ANDAZIBE
+            WHITE PALACE
           </span>
 
           <h1 className="font-serif text-4xl sm:text-7xl font-normal tracking-wide text-white leading-tight">

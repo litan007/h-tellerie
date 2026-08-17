@@ -29,7 +29,7 @@ export const RestaurantView: React.FC<RestaurantViewProps> = ({
         <div className="absolute inset-0 z-0">
           <img
             src={RESTAURANT_INTERIOR_IMAGE}
-            alt="Restaurant Gastronomique Andazibe"
+            alt="Restaurant Gastronomique White Palace"
             className="w-full h-full object-cover scale-105"
             referrerPolicy="no-referrer"
           />

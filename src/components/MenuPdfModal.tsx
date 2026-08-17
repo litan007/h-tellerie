@@ -56,7 +56,7 @@ export const MenuPdfModal: React.FC<MenuPdfModalProps> = ({ isOpen, onClose }) =
         <div className="text-center space-y-8 font-serif">
           <div>
             <span className="text-xs tracking-[0.3em] text-amber-800 uppercase block mb-1">RESTAURANT GASTRONOMIQUE</span>
-            <h2 className="text-3xl font-bold tracking-widest text-[#0e2a25] uppercase">ANDAZIBE</h2>
+            <h2 className="text-3xl font-bold tracking-widest text-[#0e2a25] uppercase">WHITE PALACE</h2>
             <p className="text-xs italic text-emerald-800 mt-1 font-sans">
               Proposé par notre Chef & mariant les trésors naturels de Madagascar
             </p>

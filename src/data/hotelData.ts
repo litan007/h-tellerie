@@ -427,7 +427,7 @@ export const OFFERS: Offer[] = [
 export const GALLERY_ITEMS: GalleryItem[] = [
   {
     id: 'g1',
-    title: 'Vue panoramique du domaine Andazibe',
+    title: 'Vue panoramique du domaine White Palace',
     category: 'hotel',
     image: heroLodgeImg,
     caption: 'Les lodges en bois s\'intègrent harmonieusement dans la forêt tropicale d\'Andasibe.'
@@ -561,13 +561,13 @@ export const KEY_STATS = [
 ];
 
 export const HOTEL_INFO = {
-  name: 'ANDAZIBE',
+  name: 'WHITE PALACE',
   tagline: 'LUXURY HOTEL & RESTAURANT',
   motto: 'Luxe, Nature & Évasion',
   submotto: 'Un refuge d\'exception au cœur d\'une nature préservée.',
   address: 'Route Nationale 2, km 138, Andasibe 509, Madagascar',
   phone: '+261 34 12 345 67',
-  email: 'contact@andazibe-luxury.com',
+  email: 'contact@whitepalace-luxury.com',
   receptionHours: 'Tous les jours : 07h00 - 22h00',
   coordinates: { lat: -18.9322, lng: 48.4178 }
 };
@@ -582,7 +582,7 @@ export const BLOG_POSTS: BlogPost[] = [
     content: [
       'Au lever du jour, alors que la brume matinale enveloppe délicatement la canopée de la forêt primaire d’Andasibe, un chant mystique resurgit des profondeurs de la canopée. Il s’agit de l’appel de l’Indri Indri (Babakoto), le plus grand lémurien encore en vie sur notre planète.',
       'Mesurant près de 70 cm et pesant jusqu’à 10 kg, cet énigmatique primate sans queue captive tous les passionnés de nature sauvage. Son chant, audible à plus de 3 kilomètres à la ronde, constitue un puissant moyen de communication territorial et d’affirmation familiale.',
-      'À Andazibe Hotel & Restaurant, nos guides naturalistes locaux issus de la communauté vous accompagnent à l’aube sur des sentiers réservés afin de vous offrir une observation respectueuse, sans troubler la quiétude de ces animaux protégés.'
+      'À White Palace Hotel & Restaurant, nos guides naturalistes locaux issus de la communauté vous accompagnent à l’aube sur des sentiers réservés afin de vous offrir une observation respectueuse, sans troubler la quiétude de ces animaux protégés.'
     ],
     author: 'Jean-Luc Ravoavy, Guide Naturaliste Senior',
     date: '14 Mai 2025',
@@ -599,7 +599,7 @@ export const BLOG_POSTS: BlogPost[] = [
     excerpt: 'Plongée au cœur des saveurs malagasy : comment notre Chef sublimera la Reine des Épices dans la carte gastronomique du restaurant.',
     content: [
       'Incontestablement réputée comme la meilleure vanille au monde, la Vanille Bourbon de Madagascar est bien plus qu’une simple épice : c’est l’or noir de notre île, cultivé avec patience et passion dans le respect de traditions séculaires.',
-      'Au restaurant d’Andazibe, notre Chef met un point d’honneur à marier cette vanille d’exception tant dans des créations sucrées – comme nos mille-feuilles croustillants à la vanille d’Analanjirofo – que dans des sauces salées raffinées accompagnant nos médaillons de zébu fumé.',
+      'Au restaurant de White Palace, notre Chef met un point d’honneur à marier cette vanille d’exception tant dans des créations sucrées – comme nos mille-feuilles croustillants à la vanille d’Analanjirofo – que dans des sauces salées raffinées accompagnant nos médaillons de zébu fumé.',
       'Au cours de votre séjour, découvrez également nos ateliers de dégustation d’épices rares : baie rose de Majunga, poivre sauvage Voatsiperifery et cannelle fraîche cueille le matin même dans notre jardin d’herbes aromatiques.'
     ],
     author: 'Chef Hery Rakotoarisoa',
@@ -620,7 +620,7 @@ export const BLOG_POSTS: BlogPost[] = [
       'Nos conseils essentiels : munissez-vous de chaussures de marche étanches et adhérentes, d’un coupe-vent imperméable léger et de vêtements aux teintes naturelles (vert, kaki, beige) pour vous fondre discrètement dans le décor.',
       'Pensez également à emporter une lampe frontale avec option lumière rouge pour notre sortie nocturne guidée, au cours de laquelle vous pourrez apercevoir le fameux lémurien microcèbe, plus petit primate nocturne au monde !'
     ],
-    author: 'Conciergerie Andazibe',
+    author: 'Conciergerie White Palace',
     date: '22 Mars 2025',
     readTime: '3 min de lecture',
     image: hotelExteriorImg,
@@ -632,9 +632,9 @@ export const BLOG_POSTS: BlogPost[] = [
     title: 'Reforestation & Écotourisme : Notre engagement pour Mantadia',
     slug: 'reforestation-ecotourisme-engagement-mantadia',
     category: 'conservation',
-    excerpt: 'Chaque nuit passée à Andazibe contribue au financement de notre pépinière bio et au reboisement d\'espèces d\'arbres autochtones.',
+    excerpt: 'Chaque nuit passée à White Palace contribue au financement de notre pépinière bio et au reboisement d\'espèces d\'arbres autochtones.',
     content: [
-      'Parce que le luxe contemporain doit s’inscrire dans une démarche exemplaire de préservation, Andazibe Hotel & Restaurant mène activement un programme vertueux de conservation de la biodiversité.',
+      'Parce que le luxe contemporain doit s’inscrire dans une démarche exemplaire de préservation, White Palace Hotel & Restaurant mène activement un programme vertueux de conservation de la biodiversité.',
       'Notre pépinière privée produit plus de 2 000 jeunes plants par an (Palissandre, Ravinala, arbres à orchidées). En séjournant chez nous, chaque voyageur participe symboliquement à la plantation d’un arbre qui renforcera le corridor biologique reliant le parc de Mantadia à la réserve d’Analamazaotra.',
       'Nous collaborons étroitement avec les associations locales afin de garantir un impact socio-économique positif et d’encourager la transmission des savoirs environnementaux auprès des jeunes générations.'
     ],

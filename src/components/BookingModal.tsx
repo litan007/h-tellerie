@@ -116,7 +116,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                 RÉSERVATION D'EXCEPTION
               </h3>
               <p className="text-[11px] text-amber-300/90 font-medium tracking-wider uppercase">
-                Andazibe Luxury Hotel & Restaurant
+                White Palace Luxury Hotel & Restaurant
               </p>
             </div>
           </div>
@@ -369,7 +369,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                   <label className="text-[10px] font-bold text-amber-300/80 uppercase tracking-widest block">Code promo (optionnel)</label>
                   <input
                     type="text"
-                    placeholder="ANDAZIBE2025"
+                    placeholder="WHITEPALACE2025"
                     value={booking.promoCode}
                     onChange={(e) => setBooking({ ...booking, promoCode: e.target.value })}
                     className="w-full bg-[#07241E] border border-emerald-800 rounded-xl px-4 py-2.5 text-xs text-white focus:outline-none focus:border-amber-400"
